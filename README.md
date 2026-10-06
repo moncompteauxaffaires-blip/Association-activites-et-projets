@@ -1,11 +1,10 @@
-Activités
+Ensemble & Activités
 Activités
 Projets à financer
 Connexion
 Créer un compte
 PLATEFORME ASSOCIATIVE
 Des activités accessibles grâce au financement collectif.
-
 Participez à des activités sportives, sorties, ateliers manuels et projets collectifs. Les contributions permettent de réduire ou financer le coût des activités.
 
 Découvrir les activités
@@ -96,3 +95,4 @@ Créez votre compte pour retrouver vos inscriptions et vos participations.
 Créer mon compte
 Ensemble & Activités
 Une plateforme associative de projets et d'activités.
+© 2026 · Prototype
