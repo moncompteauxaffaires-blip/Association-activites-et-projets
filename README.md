@@ -1,5 +1,5 @@
 
-voici le lien du site  https://wwww.content://downloads/all_downloads/6971
+voici le lien du site  http://wwww.content://downloads/all_downloads/6971
 
 
 <!doctype html>
