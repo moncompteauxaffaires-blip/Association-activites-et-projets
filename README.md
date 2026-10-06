@@ -1,7 +1,7 @@
 
 voici le lien du site 
 
-content://downloads/all_downloads/6972
+http:// content://downloads/all_downloads/6972
 
 
 <!doctype html>
