@@ -1,7 +1,7 @@
 
 voici le lien du site web 
 
-https://es-d-40735473820261008-01a112b7-0519-7b4c-909b-2fd0e00673bb.codepen.dev/
+https://es-d-40735473820261008-01a112b7-0519-7b4c-909b-2fd0e00673bb.codepen.dev
 
 <!doctype html>
 <html lang="fr">
